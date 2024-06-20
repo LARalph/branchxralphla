@@ -32,7 +32,7 @@ export const socialLinks = [
 export const links = [
   {
     text: 'Check out Next Corner',
-    url: 'https://forms.gle/j9HrXJbkn6jdMY5K6',
+    url: 'https://nextcornerapp.netlify.app/',
     featured: true,
   },
   {
