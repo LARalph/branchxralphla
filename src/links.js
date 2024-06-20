@@ -37,7 +37,7 @@ export const links = [
   },
   {
     text: 'Persoanl Website',
-    url: '',
+    url: 'https://ralphla.netlify.app/',
   },
   {
     text: 'Schedule a meeting',
